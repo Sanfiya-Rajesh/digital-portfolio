@@ -54,7 +54,7 @@
             color: #fff;
         }
 
-        .section-content {
+.section-content {
             background-color: #fff;
             padding: 2rem;
             margin: 1rem;
@@ -97,7 +97,7 @@
             <!-- Add your profile picture here -->
             <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>Sanfiya.R</h1>
-            <p>I'm a Computer Science Student</p>
+            <p>Am computer science student</p>
         </div>
     </header>
 
@@ -114,16 +114,16 @@
 
     <section id="about">
         <div class="section-content">
-            <h2>About Me</h2>
-            <p>I'm a <b>computer science</b> passionate about coding,technology and problem solving,
-            and i am strong interest in software development, machine learning and web technologies.I enjoying solving my problem and building project that can make a positive impact.</p>
+            <h2>About Me</h2
+<p>I'm a <b>Computer science</b>A computer science student learns programming, algorithms, and software development. The focus is on problem-solving, logical thinking, and practical application of technology.</p>
+
         </div>
     </section>
 
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>Bharathiar University</p>
+            <p>Bharathiyar University  - Mech</p>
             
             
         </div>
@@ -133,15 +133,15 @@
         <div class="section-content">
             <h2>Skills</h2>
             <ul>
-                <li>Ms-word</li>
-                <li>Ms-excel</li>
-                <li>Ms-powerpoint</li>
-                <li>DCA-Diplomo in computer application</li>
-                <li>c language</li>
-                <li>c++</li>
+                <li>c</li>
+                <li>linux</li>
+                <li>spm</li>
+                <li>Python</li>
+                <li>html</li>
+                <li>ML & AI</li>
                 <li>java</li>
-                <li>linux operating system</li>
-                <li>software project management</li>
+                <li>c++</li>
+                <li>Java script</li>
             </ul>
         </div>
     </section>
