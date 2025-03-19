@@ -115,7 +115,12 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>I'm a <b>computer science</b> expert I am a Highly motivated and detail-oriented Computer Science student with a strong academic foundation in programming languages, data structures, algorithms, and software engineering. Proficient in languages such as Java, Python, and C++, with experience in web development, database management, and machine learning. Strong passion for innovation, teamwork, and problem-solving, with excellent communication and analytical skills. Eager to apply theoretical knowledge in real-world settings and contribute to cutting-edge technological advancements.</p>
+            <p>I'm a <b>computer science</b>I am a Highly motivated and detail-oriented Computer Science student with a 
+            strong academic foundation in programming languages, data structures, algorithms, and software engineering. 
+            Proficient in languages such as Java, Python, and C++, with experience in web development, database 
+            management, and machine learning. Strong passion for innovation, teamwork, and problem-solving, with excellent
+            communication and analytical skills. Eager to apply theoretical knowledge in real-world settings and 
+            contribute to cutting-edge technological advancements.</p>
         </div>
     </section>
 
@@ -138,9 +143,9 @@
                 <li>Python</li>
                 <li>Spring</li>
                 <li>ML & AI</li>
-                <li>java</li>
-                <li>c++</li>
-                <li>Java script</li>
+                <li>DCA</li>
+                <li>Communication</li>
+                <li>Java</li>
             </ul>
         </div>
     </section>
