@@ -96,8 +96,8 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Sanfiya R</h1>
-            <p>Am Computer Science Student</p>
+            <h1>Sanfiya.R</h1>
+            <p>I'm a Computer Science Student</p>
         </div>
     </header>
 
@@ -115,12 +115,8 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>I'm a <b>computer science</b>I am a Highly motivated and detail-oriented Computer Science student with a 
-            strong academic foundation in programming languages, data structures, algorithms, and software engineering. 
-            Proficient in languages such as Java, Python, and C++, with experience in web development, database 
-            management, and machine learning. Strong passion for innovation, teamwork, and problem-solving, with excellent
-            communication and analytical skills. Eager to apply theoretical knowledge in real-world settings and 
-            contribute to cutting-edge technological advancements.</p>
+            <p>I'm a <b>computer science</b> passionate about coding,technology and problem solving,
+            and i am strong interest in software development, machine learning and web technologies.I enjoying solving my problem and building project that can make a positive impact.</p>
         </div>
     </section>
 
@@ -137,15 +133,15 @@
         <div class="section-content">
             <h2>Skills</h2>
             <ul>
-                <li>C++</li>
-                <li>JavaScript</li>
-                <li>Cloud Computing</li>
-                <li>Python</li>
-                <li>Spring</li>
-                <li>ML & AI</li>
-                <li>DCA</li>
-                <li>Communication</li>
-                <li>Java</li>
+                <li>Ms-word</li>
+                <li>Ms-excel</li>
+                <li>Ms-powerpoint</li>
+                <li>DCA-Diplomo in computer application</li>
+                <li>c language</li>
+                <li>c++</li>
+                <li>java</li>
+                <li>linux operating system</li>
+                <li>software project management</li>
             </ul>
         </div>
     </section>
@@ -172,7 +168,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 Sanfiya R</p>
+        <p>&copy; 2025 Sanfiya.R</p>
     </footer>
 
     <script>
